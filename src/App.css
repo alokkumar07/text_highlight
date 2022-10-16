@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.pop{
+  position: fixed;
+  z-index: 1000;
+  height: 150px;
+  width: 200px;
+  margin-left: 10px;
+  background-color: gray;
+  color: white;
+ 
+}
